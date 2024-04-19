@@ -1,0 +1,13 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.board {
+    height: 500px;
+    width: 500px;
+    border: 1px solid black;
+    display: grid;
+}
